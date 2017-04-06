@@ -1,3 +1,3 @@
-import junit.*;
+import org.junit.*;
 public class Test {
 }
