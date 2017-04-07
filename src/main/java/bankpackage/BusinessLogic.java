@@ -1,4 +1,4 @@
-package com.example;
+package bankpackage;
 
 public class BusinessLogic {
     private String name;
